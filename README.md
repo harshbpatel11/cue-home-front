@@ -1,2 +1,2 @@
-# cue-home-front
-cue-home-front
+# cue-home-frontend
+cue-home-frontend
